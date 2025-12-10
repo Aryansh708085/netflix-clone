@@ -1,2 +1,29 @@
-# netflix-clone
-A fully responsive Netflix Clone built using modern web technologies. It features dynamic movie listings, category-wise browsing, a sleek UI inspired by Netflix, and real-time data fetching using APIs. The project showcases front-end design, API integration, and clean code structure suitable for portfolio use.
+# 🎬 Netflix Clone (HTML & CSS)
+
+A clean, responsive, and visually appealing **Netflix Clone** built entirely using **HTML and CSS**.  
+This project focuses on replicating the modern UI/UX of Netflix, including the homepage layout, hero section, movie rows, and footer — all without using JavaScript or any frameworks.
+
+---
+
+## 🚀 Features
+
+- 🎥 **Pure HTML & CSS** 
+- 📺 **Netflix-inspired UI design**
+- 📱 **Fully responsive layout**
+- 🎞️ **Stylish movie grid sections**
+- 🌈 **Clean and modern color patterns**
+- ✨ **Smooth hover animations**
+- 🔤 **Custom fonts for a professional look**
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Google Fonts**
+- **Font Awesome (optional icons)**
+
+---
+
+## 📂 Folder Structure
